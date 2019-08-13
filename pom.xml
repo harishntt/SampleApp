@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>sampleApp</name>
   <url>http://maven.apache.org</url>
+  ljasf
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
